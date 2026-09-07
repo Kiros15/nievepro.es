@@ -1,0 +1,1 @@
+const b=document.querySelector('.menu'),n=document.querySelector('.navlinks');if(b){b.onclick=()=>n.classList.toggle('mobile')};document.querySelectorAll('.signup').forEach(f=>f.onsubmit=e=>{e.preventDefault();f.querySelector('button').textContent='¡Listo!'});document.querySelectorAll('#year').forEach(x=>x.textContent=new Date().getFullYear());
