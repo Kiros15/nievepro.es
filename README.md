@@ -1,1 +1,2 @@
-NievePro v5 — desktop responsive corregido; imágenes locales; catálogos separados; sin referencias a afiliación en textos; enlaces externos a tiendas; ads.txt incluido.
+NievePro v6 — base: v4_corregida.
+Cambios: se conserva íntegramente el logo y la estructura; se eliminan referencias visibles a afiliación; catálogos Ski/Snowboard con productos reales, precios y enlaces a tiendas; imágenes de guías diferenciadas; ajuste de grid desktop y canonicales.
