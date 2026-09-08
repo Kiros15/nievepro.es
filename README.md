@@ -1,10 +1,9 @@
-# NievePro — versión ampliada
-- 5 guías editoriales destacadas y enlazadas desde la portada.
-- Diseño mobile-first manteniendo identidad azul Ski / naranja Snowboard.
-- Imágenes de acción en las tarjetas principales.
-- SEO: titles, descriptions, canonical, robots.txt y sitemap.xml.
-- AdSense: script global + espacios publicitarios preparados.
-- ads.txt incluido con el publisher actual.
-- GA4: G-CL13EHQFR0.
-- Consentimiento básico antes de activar almacenamiento analítico/publicitario.
-- Enlaces externos a fuentes oficiales de Salomon, Dynafit, AEMET, Union, CAPiTA, Burton y Avalanche.org.
+# NievePro v4
+
+Revisión de arquitectura y contenido.
+
+- Las guías detalladas están separadas de Ski, Snowboard, Material y Estaciones.
+- Ski y Snowboard incluyen catálogos de productos preparados para futuras afiliaciones.
+- Imágenes de las tarjetas usan URLs absolutas para evitar errores de rutas relativas en Vercel.
+- AdSense, ads.txt, sitemap y robots incluidos.
+- Sustituir el contenido actual del repositorio por esta carpeta.
